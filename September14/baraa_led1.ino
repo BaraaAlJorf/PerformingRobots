@@ -11,7 +11,7 @@ void setup()
 
 void loop()
 {
- //checks whether the top switch is pressed
+ //checks whether the bottom switch is pressed
  int switch1reading = digitalRead(2);
  //if switch is pressed, LEDs light up in a consecutive pattern
  if(switch1reading == HIGH)
@@ -35,7 +35,7 @@ void loop()
   	delay(500);
   	digitalWrite(10, LOW);
  }
- //checks whether the bottom switch is pressed
+ //checks whether the top switch is pressed
  int switch2reading = digitalRead(3);
  // if switch is pressed, LEDs light up in alternating pattern 5 times
  if(switch2reading == HIGH)
