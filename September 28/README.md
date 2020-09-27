@@ -6,7 +6,7 @@
  The program uses a modular function "printonOLED()" to print whatever string it is fed onto the OLED screen. THe rpogram is designed such that when it first runs, it displays the message "READY" to the user, displays the message "PRESSED" when the button is pressed and, finally, to present the message "button presses:" and then print the number of times the button presses were detected. 
  </br>
  When the program is first started, the "READY" message is displayed:
- ![Alt Text](PerformingRobots/September 28/20200927_154004.jpg)
+ ![Alt Text](https://gitbub.com/BaraaAlJorf/PerformingRobots/September 28/20200927_154004.jpg)
  </br>
  When the button is pressed, the "PRESSED" message is displayed:
  ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/September14/2020-09-12%20(5).png)
