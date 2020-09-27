@@ -19,4 +19,5 @@
  ## **Problems and Challenges:**
  </br>
  The main issue I faced was in printing the variable "numtimespressed". Due to the variable being an integer, the function "printonOLED()" was not accepting it as input. Possible solutions included creating a new function that prints integers, but that seemed like the longer path to take. Instead, I decided to convert the integer variable "numtimespressed" into a string using the "String()" function so that the "printonOLED()" function accepts it. Another issue I had was that I forgot to insert the display.display() function and that resulted in a very messy OLED display with random pixels all around. finally, the last problem I had was in trying to fit the words on the OLED display. The screen was cutting the word "presses" into 2 lines and that did not look neat. I therefore decided to add a couple of spaces between the word "button" and "presses" so that they are displayed on different lines.
+ 
  ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/September%2028/20200927_155333.jpg)
