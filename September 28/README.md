@@ -10,7 +10,7 @@
  ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/September%2028/20200927_154004.jpg)
  </br>
  When the button is pressed, the "PRESSED" message is displayed:
- ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/September14/2020-09-12%20(5).png)
+ ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/September%2028/20200927_154020.jpg)
  </br>
  When the button is left (after being pressed at least once), a message of the following form is displayed:
  ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/September14/2020-09-12%20(5).png)
