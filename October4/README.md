@@ -9,3 +9,6 @@ Initially, I wanted to figure out how to attach the circuit. To do so, I first h
 by this point, I was done with the structure, but I wanted to add my personal touches so I grabbed my acrylic markers and poska pens and started painting it
 </br>
 Here you could find a video of the robot when the button is pressed:
+</br>
+## Challenges:
+The main challenge I faced was to keep the robot structuraly intact. Thankfully, the glue gun was able to fix most structural problems. Additionally, my choice to give the robot a parallellogram shaped body helped prevent it from flopping over
