@@ -9,7 +9,7 @@ Initially, I wanted to figure out how to attach the circuit. To do so, I first h
  
  ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/October4/20201004_170520.jpg)
   
- ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/September%2028/20200927_155333.jpg)
+ ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/October4/20201004_173349.jpg)
   
  ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/September%2028/20200927_155333.jpg)
   
