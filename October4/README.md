@@ -26,7 +26,7 @@ by this point, I was done with the structure, but I wanted to add my personal to
 </br>
 Here you could find a video of the robot when the button is pressed:
  
- ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/September%2028/20200927_155333.jpg)
+ ![Video](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/October4/20201004_212318.mp4)
 ## Challenges:
 
 The main challenge I faced was to keep the robot structuraly intact. Thankfully, the glue gun was able to fix most structural problems. Additionally, my choice to give the robot a parallellogram shaped body helped prevent it from flopping over
