@@ -30,3 +30,36 @@ In the beginning, connecting the switches to the Arduino and making them control
  The main issue I faced was in printing the variable "numtimespressed". Due to the variable being an integer, the function "printonOLED()" was not accepting it as input. Possible solutions included creating a new function that prints integers, but that seemed like the longer path to take. Instead, I decided to convert the integer variable "numtimespressed" into a string using the "String()" function so that the "printonOLED()" function accepts it. Another issue I had was that I forgot to insert the display.display() function and that resulted in a very messy OLED display with random pixels all around. finally, the last problem I had was in trying to fit the words on the OLED display. The screen was cutting the word "presses" into 2 lines and that did not look neat. I therefore decided to add a couple of spaces between the word "button" and "presses" so that they are displayed on different lines.
  
  ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/September%2028/20200927_155333.jpg)
+
+# October 4
+## Project Description:
+</br>
+My aim in this project was to create a robot that moves and makes sound once a button is pressed. I wanted to give the robot a little bit of a personality so I painted it and had it make high-pitched robot noises. I also added bear ears and random patches in order to make it more lively.
+ 
+![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/October4/20201004_212900.jpg)
+</br>
+Initially, I wanted to figure out how to attach the circuit. To do so, I first hot-glued the motors and wheels to a piece of cardboard, and then started building up my circuit from then
+ 
+ ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/October4/20201004_170520.jpg)
+  
+ ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/October4/20201004_173349.jpg)
+  
+ ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/October4/20201004_190616.jpg)
+  
+</br>
+by this point, I was done with the structure, but I wanted to add my personal touches so I grabbed my acrylic markers and poska pens and started painting it
+ 
+ ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/October4/20201004_193443.jpg)
+  
+ ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/October4/20201004_195158.jpg)
+  
+ ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/October4/20201004_211838.jpg)
+  
+ ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/October4/20201004_212302.jpg)
+</br>
+Here you could find a video of the robot when the button is pressed:
+ 
+ ![Video](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/October4/20201004_212318.mp4)
+## Challenges:
+
+The main challenge I faced was to keep the robot structuraly intact. Thankfully, the glue gun was able to fix most structural problems. Additionally, my choice to give the robot a parallellogram shaped body helped prevent it from flopping over
