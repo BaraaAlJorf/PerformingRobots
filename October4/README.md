@@ -18,7 +18,7 @@ by this point, I was done with the structure, but I wanted to add my personal to
  
  ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/October4/20201004_193443.jpg)
   
- ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/September%2028/20200927_155333.jpg)
+ ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/October4/20201004_195158.jpg)
   
  ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/September%2028/20200927_155333.jpg)
   
