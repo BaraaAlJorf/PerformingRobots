@@ -7,7 +7,7 @@ My aim in this project was to create a robot that moves and makes sound once a b
 </br>
 Initially, I wanted to figure out how to attach the circuit. To do so, I first hot-glued the motors and wheels to a piece of cardboard, and then started building up my circuit from then
  
- ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/September%2028/20200927_155333.jpg)
+ ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/October4/20201004_170520.jpg)
   
  ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/September%2028/20200927_155333.jpg)
   
