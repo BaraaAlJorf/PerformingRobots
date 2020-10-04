@@ -13,11 +13,10 @@ Initially, I wanted to figure out how to attach the circuit. To do so, I first h
   
  ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/October4/20201004_190616.jpg)
   
- ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/September%2028/20200927_155333.jpg)
 </br>
 by this point, I was done with the structure, but I wanted to add my personal touches so I grabbed my acrylic markers and poska pens and started painting it
  
- ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/September%2028/20200927_155333.jpg)
+ ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/October4/20201004_193443.jpg)
   
  ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/September%2028/20200927_155333.jpg)
   
