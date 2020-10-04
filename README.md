@@ -31,7 +31,7 @@ In the beginning, connecting the switches to the Arduino and making them control
  
  ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/September%2028/20200927_155333.jpg)
 
-# October 4
+## October 4
 ## Project Description:
 </br>
 My aim in this project was to create a robot that moves and makes sound once a button is pressed. I wanted to give the robot a little bit of a personality so I painted it and had it make high-pitched robot noises. I also added bear ears and random patches in order to make it more lively.
