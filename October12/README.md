@@ -3,7 +3,7 @@
 ### 1. Mouse Robot
  ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/October12/20201011_230649.jpg)
 ### 2. Cat Cardboard figure
- ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/September%2028/20200927_154845.jpg)
+ ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/October12/20201011_230656.jpg)
 
 ## Performance Description:
 The mouse robot is followed by the cat robot as it tries to hide around the house.
