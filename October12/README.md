@@ -1,7 +1,7 @@
 # October 12
 ## Props/ Actors
 ### 1. Mouse Robot
- ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/September%2028/20200927_154845.jpg)
+ ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/October12/20201011_230649.jpg)
 ### 2. Cat Cardboard figure
  ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/September%2028/20200927_154845.jpg)
 
