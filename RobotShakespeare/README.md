@@ -7,3 +7,6 @@ I also made a small castle window/ Balconey for Juliet to stand behind
 ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/RobotShakespeare/20201017_214744.jpg)
 ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/RobotShakespeare/20201017_214757.jpg)
 ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/RobotShakespeare/20201017_214812.jpg)
+
+# Video Link
+https://drive.google.com/file/d/1dcr9_NTXgUyrLevPKUT_Qez0e6ye3rqW/view?usp=sharing
