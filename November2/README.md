@@ -8,10 +8,10 @@ Firstly, I want to make my robot perform three different sets of expressive move
 Since I have been using the OLED as a mouth, I figured it would also make sense to animate facial expressions on my robot. My plan is to animate three different emotions/expressiosn : Joy, Sadness, and a "wave"
 The "wave" is an expression that I want my robot to show while it is dancing.
 </br>
-The "wave" will be formed by alternating between these two images to give the illusion of a moving wave: ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/October4/20201004_212900.jpg) ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/October4/20201004_212900.jpg)
+The "wave" will be formed by alternating between these two images to give the illusion of a moving wave: ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/November2/IMG_0384.PNG) ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/November2/IMG_0383.PNG)
 </br>
 
-The joy animation will comprise these three expressions: ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/October4/20201004_212900.jpg) ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/October4/20201004_212900.jpg) ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/October4/20201004_212900.jpg)
+The joy animation will comprise these three expressions: ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/November2/IMG_0385.PNG) ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/November2/IMG_0382.PNG) ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/November2/IMG_0386.PNG)
 </br>
 
-The sadness animation will comprise these three expressions: ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/October4/20201004_212900.jpg) ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/October4/20201004_212900.jpg) ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/October4/20201004_212900.jpg)
+The sadness animation will comprise these three expressions: ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/November2/IMG_0385.PNG) ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/November2/IMG_0387.PNG) ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/November2/IMG_0388.PNG)
