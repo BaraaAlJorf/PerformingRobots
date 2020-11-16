@@ -22,4 +22,6 @@ I will probably depend on acrylic paint to add costumes to the robot, for the pr
 ## Staging:
 Possibly including green screen in song 1 to add image of destroyed planet, might use green screen to add night sky in song 2 and 3. For song 2 and 3, I am planning to recreate the Beast's Castle as a stage.
 ## Special Actions:
+The OLED screen will be matched to the lyrics
+</br>
 If I do choose option 3, I will hopefully have the robot waltzing with Belle
