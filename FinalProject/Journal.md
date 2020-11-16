@@ -20,6 +20,6 @@ My plan is to have my robot look as technical and robotic as possible, might eve
 ## Costuming: 
 I will probably depend on acrylic paint to add costumes to the robot, for the prop however I am hoping I would find some loose fabric that I can turn into a dress.
 ## Staging:
-Possibly including green screen in song 1 to add image of destroyed planet, might use green screen to add night sky in song 2 and 3. For song 2 and 3, I am plannin gto recreate the Beast's Castle as a stage.
+Possibly including green screen in song 1 to add image of destroyed planet, might use green screen to add night sky in song 2 and 3. For song 2 and 3, I am planning to recreate the Beast's Castle as a stage.
 ## Special Actions:
 If I do choose option 3, I will hopefully have the robot waltzing with Belle
