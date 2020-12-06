@@ -31,7 +31,7 @@ I ended up choosing a mix between options 2 and 3
 ## Actors/ Props:
 ### The Beast:
 I had a lot of trouble deciding on how to color my beast robot. I was trying to make him look similar to the beast but still as robotic as possible. After much experimentation with different shades I decided to use construction paper to give him a tuxedo (similar to the beast's) and decided to make his face white with metallic golden streaks where I found suitable.  
- ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/October4/20201004_170520.jpg)
+ ![Alt Text](https://github.com/BaraaAlJorf/PerformingRobots/blob/master/FinalProject/20201206_150502.jpg)
 I had the circuit placed in him using super glue in order to keep everything as stable as possible
 ### Belle:
 To make Belle, I first used a cardboard roll as her base. I then added aluminum foil for her top. I covered her head with clay and painted a face on it. I then cut up face masks to make them look like a dress for her to dance in. In the end the final product looked like this
