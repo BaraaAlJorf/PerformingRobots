@@ -1,7 +1,4 @@
-//This example drives a robot in left and right arcs, driving in an overall wiggly course.
-//  It demonstrates the variable control abilities. When used with a RedBot chassis,
-//  each turn is about 90 degrees per drive.
-//
+//This is the code for the tale as old as time portion where the beast dances with Belle
 //  Pin 8 can be grounded to disable motor movement, for debugging.
 
 #include <Arduino.h>
@@ -30,8 +27,8 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
 int brightness = 100; //Button brightness
 
-//  putting in the bitmap for each image 1-6 is the tank moving its turret up and down. 7-10 is a loading symbol
-const unsigned char myBitmap1 [] PROGMEM = {  // 'sad, 128x64px
+//  This is the only bitmap in this code showing a happy smile as opposed to the sad expressions in the previous code
+const unsigned char myBitmap1 [] PROGMEM = { 
   // 'happy, 128x64px
   0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 
   0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 
@@ -170,11 +167,11 @@ void setup()
 
 void loop()
 {
-  //Check whether the button is pressed in order to start the robot
+  //Check whether the button is pressed in order to start the robot dancing
   if (button.isPressed() == true) {
     myMotorDriver.setDrive( LEFT_MOTOR, 1, 40);
     myMotorDriver.setDrive( RIGHT_MOTOR, 1, 40);
-
+//The dancing moves resemble the Waltz which I thought would be appropriate for this performance
     for (int i = 0; i < 4; i++) {    //Loop the action 4 times
       delay(2000);                  
 
