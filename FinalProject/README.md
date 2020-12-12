@@ -1,8 +1,8 @@
 # Final Project: Beauty and The Beast
 The aim of this project was to utilize my knowledge using Sparkfun's I2C arduino boards to create social robots that performed theatrically. For my final project I decided to play around with the idea of a forbidden love and decided to recreate "Beauty and The Beast." The planning and process of creation can all be found under my journal file. 
 
-# Journal Update December 6
-I ended up choosing a mix between options 2 and 3
+# Concept:
+The main idea behind this project was to reenact "Beauty and the Beast" using a robot and a clay figure. Since re-enacting the whole movie was way above the permitted time limit, I decided to choose 2 very iconic songs. The first song is "Evermore" from the live-action remake of Disney's "Beauty and The Beast" and the second song was "Tale as Old as Time" from the original 2D movie. In the "Evermore" portion of the video, th eBEast is shown lamenting over Beauty( or Belle) leaving his tower after he set her free. Belle then returns and starts dancing with the Beast joyfully while "Tale as Old as Time" plays in the background.
 ## Actors/ Props:
 ### The Beast:
 I had a lot of trouble deciding on how to color my beast robot. I was trying to make him look similar to the beast but still as robotic as possible. After much experimentation with different shades I decided to use construction paper to give him a tuxedo (similar to the beast's) and decided to make his face white with metallic golden streaks where I found suitable.  
