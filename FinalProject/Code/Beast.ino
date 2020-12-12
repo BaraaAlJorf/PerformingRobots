@@ -1,7 +1,4 @@
-//This example drives a robot in left and right arcs, driving in an overall wiggly course.
-//  It demonstrates the variable control abilities. When used with a RedBot chassis,
-//  each turn is about 90 degrees per drive.
-//
+// This is the code for the "Evermore" portion of the video.
 //  Pin 8 can be grounded to disable motor movement, for debugging.
 
 #include <Arduino.h>
@@ -30,7 +27,7 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
 int brightness = 100; //Button brightness
 
-//  putting in the bitmap for each image 1-6 is the tank moving its turret up and down. 7-10 is a loading symbol
+//  These bitmaps are the facial expressions of the beast as he sings the lyrics
 const unsigned char myBitmap1 [] PROGMEM = {  // 'sad, 128x64px
   0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00,
   0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00,
@@ -428,7 +425,8 @@ void loop()
     display.display();
     delay (5000);
   }
-
+                             
+//stop the motor
   myMotorDriver.setDrive( LEFT_MOTOR, 1, 0);
   myMotorDriver.setDrive( RIGHT_MOTOR, 1, 0);
   display.clearDisplay();
